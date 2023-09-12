@@ -14,7 +14,7 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -34,6 +34,11 @@ article {
   max-width: 700px;
   margin-left: auto;
   margin-right: auto;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  color: red;
+  font-size: 13pt;
+  font-family: 'Archivo', 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+  text-align: center;
 }
