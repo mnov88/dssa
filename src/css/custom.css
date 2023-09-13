@@ -35,8 +35,9 @@ article {
   margin-left: auto;
   margin-right: auto;
   font-size: 13pt;
+  line-height: 1.2rem;
+  text-align: justify;
   font-family: 'Archivo', 'Times New Roman', Times, serif;
-
 }
 
 h1 {
