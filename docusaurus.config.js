@@ -67,7 +67,7 @@ const config = {
         // 3...
         //
         // Do _not_ use Infinity, the value must be a JSON-serializable integer.
-        indexDocSidebarParentCategories: 1,
+        indexDocSidebarParentCategories: 0,
 
         // whether to index blog pages
         indexBlog: true,
