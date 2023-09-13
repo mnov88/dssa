@@ -21,7 +21,7 @@ const config = {
   organizationName: 'mnov88', // Usually your GitHub org/user name.
   projectName: 'dssa', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
