@@ -85,7 +85,7 @@ const config = {
         // When you want to overwrite CSS variables defined by the default theme, make sure to suffix your
         // overwrites with `!important`, because they might otherwise not be applied as expected. See the
         // following comment for more information: https://github.com/cmfcmf/docusaurus-search-local/issues/107#issuecomment-1119831938.
-        style: undefined,
+        style: "none",
 
         // The maximum number of search results shown to the user. This does _not_ affect performance of
         // searches, but simply does not display additional search results that have been found.

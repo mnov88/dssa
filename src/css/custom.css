@@ -43,3 +43,8 @@ article {
 h1 {
   text-align: center;
 }
+
+aa-DetachedSearchButton {
+  background-color: transparent !important;
+  border: 0px !important;
+}
